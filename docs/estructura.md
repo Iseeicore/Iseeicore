@@ -30,7 +30,19 @@ Usa rutas relativas desde el README:
 ![Descripción de mi animación](assets/animations/pixel/mi-animacion.gif)
 ```
 
-Estos nombres son ejemplos: los archivos deben existir antes de añadirlos al contenido visible. El banner inicial es estático; las carpetas de animaciones están preparadas para tus futuros recursos.
+Estos nombres son ejemplos: los archivos deben existir antes de añadirlos al contenido visible. Las carpetas de animaciones están preparadas para tus futuros recursos.
+
+## Composición del perfil
+
+- Presentación: `personaje-rosa-azul.png` acompaña el texto sobre César.
+- Stack: `sol-dorado.png` a la izquierda y `lobo-azul.png` a la derecha.
+- Proyecto estrella: `samurai-cartillas.png` se reserva para Cartillas IA.
+- Cierre: `principito.png` y `zorro.png`.
+- Variantes disponibles: `serpiente-tinta.png`, `guerrero-mecha.png` y `cascos-mecha.png`.
+
+Las nueve imágenes se copiaron de los archivos proporcionados, conservando sus originales sin modificaciones. El README usa seis para mantener una jerarquía clara. Las imágenes son estáticas, no animaciones.
+
+El banner SVG inicial sigue disponible en `assets/svg/banner.svg`, pero la presentación actual usa las ilustraciones. Los textos permanecen como HTML/Markdown para facilitar su edición y lectura. La distribución usa tablas compatibles con GitHub, sin CSS personalizado.
 
 Puedes cambiar los colores, textos y formas de `assets/svg/banner.svg` con un editor de texto. Incluye los recursos que necesites dentro del SVG: evita depender de scripts, fuentes o imágenes externas.
 
