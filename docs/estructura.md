@@ -36,14 +36,14 @@ Estos nombres son ejemplos: los archivos deben existir antes de añadirlos al co
 
 - Presentación: `personaje-rosa-azul.png` acompaña el texto sobre César.
 - Cabecera: emblema `serpiente-tinta.png` junto al nombre.
-- Stack: cada badge de Shields.io entre `lobo-azul.png` y `sol-dorado.png`.
+- Stack: dos filas de tres badges compactos, cada uno entre `lobo-azul.png` y `sol-dorado.png`. Debajo aparece la sección Skills con gestión de colas y tareas en segundo plano.
 - Proyecto estrella: `samurai-cartillas.png` se reserva para Cartillas IA.
 - Cierre: `principito.png` y `zorro.png`.
 - Variantes disponibles: `guerrero-mecha.png` y `cascos-mecha.png`.
 
 Las nueve imágenes se copiaron de los archivos proporcionados, conservando sus originales sin modificaciones. El README usa siete para mantener una jerarquía clara. Las imágenes son estáticas, no animaciones.
 
-El banner SVG inicial sigue disponible en `assets/svg/banner.svg`, pero la presentación actual usa las ilustraciones. Los textos permanecen como HTML/Markdown para facilitar su edición y lectura. La distribución usa secciones abiertas e imágenes alineadas, sin tablas ni CSS personalizado. Los badges de tecnologías provienen de Shields.io con el estilo for-the-badge; requieren acceso al servicio externo. La tipografía general la controla GitHub.
+El banner SVG inicial sigue disponible en `assets/svg/banner.svg`, pero la presentación actual usa las ilustraciones. Los textos permanecen como HTML/Markdown para facilitar su edición y lectura. La distribución usa secciones abiertas e imágenes alineadas, sin tablas ni CSS personalizado. Los badges de tecnologías provienen de Shields.io con el estilo flat-square para tecnologías y habilidades; requieren acceso al servicio externo. La tipografía general la controla GitHub.
 
 Puedes cambiar los colores, textos y formas de `assets/svg/banner.svg` con un editor de texto. Incluye los recursos que necesites dentro del SVG: evita depender de scripts, fuentes o imágenes externas.
 
