@@ -1,62 +1,100 @@
-<h1 align="center">César · Iseeicore</h1>
-<p align="center"><strong>Desarrollo web · APIs · Datos · Inteligencia artificial</strong></p>
+<h1 align="center">César · Iseeicore <img src="assets/images/serpiente-tinta.png" width="64" height="64" align="absmiddle" alt="Emblema de serpiente de tinta" /></h1>
+<p align="center"><samp>DESARROLLO WEB · APIs · DATOS · IA</samp></p>
 
-<table>
-  <tr>
-    <td width="66%" valign="middle">
-      <h2>Hola, soy César</h2>
-      <p>Construyo aplicaciones con <strong>Python y JavaScript</strong>, conectando interfaces, APIs y bases de datos.</p>
-      <p>Mi stack combina <strong>Next.js</strong> y <strong>FastAPI</strong> con <strong>PostgreSQL</strong> y <strong>Redis</strong>. También trabajo con gestión de colas y procesamiento de tareas en segundo plano.</p>
-      <p>Este espacio reúne mi lado técnico y mi gusto por las historias, el manhwa y la ilustración.</p>
-      <a href="https://github.com/Iseeicore?tab=repositories">Explorar mis repositorios →</a>
-    </td>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/images/personaje-rosa-azul.png" width="230" alt="Personaje de manhwa sosteniendo una rosa mágica azul" />
-    </td>
-  </tr>
-</table>
+<br />
 
-## Mi stack
+<img align="right" src="assets/images/personaje-rosa-azul.png" width="190" alt="Personaje de manhwa con una rosa azul" />
 
-<table>
-  <tr>
-    <td width="20%" align="center" valign="middle">
-      <img src="assets/images/sol-dorado.png" width="150" alt="Cabeza mecha dorada, guardián izquierdo del stack" />
-    </td>
-    <td width="60%" align="center" valign="middle">
-      <p><strong>LENGUAJES</strong><br />Python · JavaScript</p>
-      <p><strong>FRAMEWORKS</strong><br />Next.js · FastAPI</p>
-      <p><strong>DATOS</strong><br />PostgreSQL · Redis</p>
-      <p><strong>TÉCNICAS</strong><br />Gestión de colas<br />Procesamiento en segundo plano</p>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <img src="assets/images/lobo-azul.png" width="150" alt="Lobo mecha azul, guardián derecho del stack" />
-    </td>
-  </tr>
-</table>
+### Hola, soy César
 
-## Proyecto estrella
+Construyo aplicaciones con **Python y JavaScript**, conectando interfaces, APIs y bases de datos.
 
-<table>
-  <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="assets/images/samurai-cartillas.png" width="250" alt="Samurái mecánico con halo ornamental, imagen de Cartillas IA" />
-    </td>
-    <td width="64%" valign="middle">
-      <p>★ <strong>PROYECTO DESTACADO</strong></p>
-      <h3>Cartillas IA</h3>
-      <p>Mi proyecto estrella: un espacio para unir desarrollo e inteligencia artificial.</p>
-      <p><a href="https://github.com/Iseeicore/modelo_cartilla"><strong>Explorar Cartillas IA →</strong></a></p>
-    </td>
-  </tr>
-</table>
+Trabajo con **Next.js, FastAPI, PostgreSQL y Redis**, además de gestión de colas y tareas en segundo plano.
+
+Aquí conviven mi lado técnico, el manhwa y la ilustración.
+
+[Explorar mis repositorios →](https://github.com/Iseeicore?tab=repositories)
+
+<br clear="all" />
+
+---
+
+<h2 align="center">Mi stack</h2>
+<p align="center"><samp>LAS HERRAMIENTAS CON LAS QUE CONSTRUYO</samp></p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="32" align="absmiddle" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" height="32" align="absmiddle" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" height="32" align="absmiddle" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="32" align="absmiddle" alt="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="32" align="absmiddle" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="assets/images/lobo-azul.png" width="48" height="58" align="absmiddle" alt="Mecha azul" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" height="32" align="absmiddle" alt="Redis" />
+  &nbsp;&nbsp;
+  <img src="assets/images/sol-dorado.png" width="58" height="58" align="absmiddle" alt="Mecha dorado" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gesti%C3%B3n_de_colas-252B37?style=for-the-badge" alt="Gestión de colas" />
+  <img src="https://img.shields.io/badge/Tareas_en_segundo_plano-252B37?style=for-the-badge" alt="Tareas en segundo plano" />
+</p>
+
+---
+
+<h2 align="center">Proyecto estrella</h2>
+
+<img align="left" src="assets/images/samurai-cartillas.png" width="185" alt="Samurái mecánico con halo ornamental de Cartillas IA" />
+
+### ✦ Cartillas IA
+
+Mi proyecto destacado, donde desarrollo e inteligencia artificial se encuentran.
+
+<a href="https://github.com/Iseeicore/modelo_cartilla"><img src="https://img.shields.io/badge/EXPLORAR_CARTILLAS_IA-6E56CF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar el repositorio de Cartillas IA" /></a>
+
+<br clear="all" />
 
 ---
 
 <p align="center">
-  <img src="assets/images/principito.png" height="135" alt="El Principito sentado, ilustrado con textura de crayón" />
+  <img src="assets/images/principito.png" height="125" alt="El Principito sentado" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/images/zorro.png" height="115" alt="Zorro sentado, ilustrado con textura de crayón" />
+  <img src="assets/images/zorro.png" height="110" alt="Zorro sentado" />
 </p>
 <p align="center"><em>Curiosidad para aprender. Imaginación para crear.</em></p>
 <p align="center"><a href="https://github.com/Iseeicore">@Iseeicore</a></p>
