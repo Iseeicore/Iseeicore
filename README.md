@@ -1,4 +1,4 @@
-<h1 align="center">César · Iseeicore <img src="assets/images/serpiente-tinta.png" width="64" height="64" align="absmiddle" alt="Emblema de serpiente de tinta" /></h1>
+<h1 align="center">César Antonio Huayaney Nieto <img src="assets/images/serpiente-tinta.png" width="64" height="64" align="absmiddle" alt="Emblema de serpiente de tinta" /></h1>
 <p align="center"><strong>Desarrollo web · APIs · Datos · IA</strong></p>
 
 <br />
